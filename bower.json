@@ -1,0 +1,17 @@
+{
+    "name": "brawler-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Cyreal"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/brawler-bower.git"
+    },
+    "description": "Brawler font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
